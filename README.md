@@ -9,7 +9,7 @@
 
 ## 🎨 Layout
 
-![halloween](/preview.png)
+![](gif.jpg)
 
 ### Ajustes e melhorias
 
